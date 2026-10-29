@@ -1,0 +1,5 @@
+# No third party dependencies.
+#
+# The backend only uses the Python standard library plus aiohttp, which is part
+# of every ComfyUI installation. The frontend is plain ES modules served by
+# ComfyUI's own WEB_DIRECTORY mechanism.

@@ -1,0 +1,25 @@
+[project]
+name = "ComfyUI-TagAutocomplete"
+version = "1.0.0"
+description = "Booru style tag autocompletion for ComfyUI CLIP text encoder nodes (port of a1111-sd-webui-tagcomplete)"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["comfyui", "tags", "danbooru", "e621", "autocomplete", "prompt", "booru"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Multimedia :: Graphics",
+]
+
+[project.urls]
+Homepage = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete"
+Repository = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete"
+"Bug Tracker" = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete/issues"
+Documentation = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete#readme"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "🏷️ Tag Autocomplete (Booru)"
+Icon = ""

@@ -1,0 +1,27 @@
+# runtime / editor artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# user specific configuration (the shipped defaults live in settings.default.json)
+settings.json
+
+# tag usage statistics are personal - generated on first run
+tags/tag_frequency.db
+tags/tag_frequency.db-journal
+tags/tag_frequency.db-wal
+tags/tag_frequency.db-shm
+
+# generated temp files (wildcard / model caches)
+tags/temp/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# packaging
+dist/
+build/
+*.egg-info/
