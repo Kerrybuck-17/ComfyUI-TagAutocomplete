@@ -20,6 +20,6 @@ Repository = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete"
 Documentation = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete#readme"
 
 [tool.comfy]
-PublisherId = "Kerrybuck-17"
+PublisherId = "kerrybuck-17"
 DisplayName = "🏷️ Tag Autocomplete (Booru)"
 Icon = ""
