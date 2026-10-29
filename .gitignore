@@ -21,6 +21,9 @@ tags/temp/
 Thumbs.db
 desktop.ini
 
+# registry publish artifacts
+node.zip
+
 # packaging
 dist/
 build/
