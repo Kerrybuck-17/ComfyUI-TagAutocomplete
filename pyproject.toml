@@ -14,12 +14,12 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete"
-Repository = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete"
-"Bug Tracker" = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete/issues"
-Documentation = "https://github.com/YOUR_GITHUB_NAME/ComfyUI-TagAutocomplete#readme"
+Homepage = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete"
+Repository = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete"
+"Bug Tracker" = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete/issues"
+Documentation = "https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete#readme"
 
 [tool.comfy]
-PublisherId = "YOUR_PUBLISHER_ID"
+PublisherId = "Kerrybuck-17"
 DisplayName = "🏷️ Tag Autocomplete (Booru)"
 Icon = ""

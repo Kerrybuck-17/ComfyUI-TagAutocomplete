@@ -1,0 +1,7 @@
+# keep text files LF in the repository, never touch the tag data
+* text=auto eol=lf
+*.csv -text
+*.json text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary

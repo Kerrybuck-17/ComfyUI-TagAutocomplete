@@ -134,7 +134,7 @@ hard-refresh the browser (<kbd>Ctrl</kbd>+<kbd>F5</kbd>).
 ### Manual (git)
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-name>/ComfyUI-TagAutocomplete.git
+git clone https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete.git
 ```
 Restart ComfyUI afterwards.
 

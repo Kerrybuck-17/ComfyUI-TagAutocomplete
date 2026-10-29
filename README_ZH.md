@@ -100,7 +100,7 @@ junction 都能识别；5700+ 个 LoRA 约 0.1 秒列完。通配符自动扫描
 ### 手动 git
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-name>/ComfyUI-TagAutocomplete.git
+git clone https://github.com/Kerrybuck-17/ComfyUI-TagAutocomplete.git
 ```
 
 ### 手动 zip
